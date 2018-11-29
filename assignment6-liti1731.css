@@ -1,0 +1,27 @@
+h1,h2,p,form{
+	text-align: center;
+}
+h1{
+	font-size: 70px;
+}
+h2{
+	font-size: 40px;
+}
+
+#boxUl{
+	padding: 0;
+	margin: 0;
+	border-color: grey;
+	border-style: solid;
+	width: 60%;
+	height: 60px;
+	margin:5% auto;
+
+}
+.redBackground{
+    background-color: orange;
+}
+.green{
+	border:solid;
+	border-color:green;
+}
